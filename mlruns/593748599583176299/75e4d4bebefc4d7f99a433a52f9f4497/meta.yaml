@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/75e4d4bebefc4d7f99a433a52f9f4497/artifacts
+end_time: 1691602495690
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 75e4d4bebefc4d7f99a433a52f9f4497
+run_name: Gradient Boosting Classifier
+run_uuid: 75e4d4bebefc4d7f99a433a52f9f4497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691602489129
+status: 3
+tags: []
+user_id: NOR

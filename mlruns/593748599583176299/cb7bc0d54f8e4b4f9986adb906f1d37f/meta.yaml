@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/cb7bc0d54f8e4b4f9986adb906f1d37f/artifacts
+end_time: 1691589215784
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: cb7bc0d54f8e4b4f9986adb906f1d37f
+run_name: Decision Tree Classifier
+run_uuid: cb7bc0d54f8e4b4f9986adb906f1d37f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691589209555
+status: 3
+tags: []
+user_id: NOR

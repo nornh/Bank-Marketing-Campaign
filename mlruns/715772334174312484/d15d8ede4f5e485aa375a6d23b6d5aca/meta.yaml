@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/715772334174312484/d15d8ede4f5e485aa375a6d23b6d5aca/artifacts
+end_time: 1691338916762
+entry_point_name: ''
+experiment_id: '715772334174312484'
+lifecycle_stage: active
+run_id: d15d8ede4f5e485aa375a6d23b6d5aca
+run_name: Isolation Forest
+run_uuid: d15d8ede4f5e485aa375a6d23b6d5aca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691338915976
+status: 3
+tags: []
+user_id: NOR

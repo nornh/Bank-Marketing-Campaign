@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/416d0027a88c4446bfc17d0efc8dbcbd/artifacts
+end_time: 1691460201144
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 416d0027a88c4446bfc17d0efc8dbcbd
+run_name: Linear Discriminant Analysis
+run_uuid: 416d0027a88c4446bfc17d0efc8dbcbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691460199358
+status: 3
+tags: []
+user_id: NOR

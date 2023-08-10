@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/cf612b02f93c44f2ba50a89fba9a374d/artifacts
+end_time: 1691465681051
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: cf612b02f93c44f2ba50a89fba9a374d
+run_name: Ada Boost Classifier
+run_uuid: cf612b02f93c44f2ba50a89fba9a374d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691465678627
+status: 3
+tags: []
+user_id: NOR

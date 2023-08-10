@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/fd93b1f0d32543cd8c42ec9f9c397cf8/artifacts
+end_time: 1691457969398
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: fd93b1f0d32543cd8c42ec9f9c397cf8
+run_name: Extreme Gradient Boosting
+run_uuid: fd93b1f0d32543cd8c42ec9f9c397cf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691457967341
+status: 3
+tags: []
+user_id: NOR

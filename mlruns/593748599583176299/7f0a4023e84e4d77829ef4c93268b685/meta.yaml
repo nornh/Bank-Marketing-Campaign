@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/7f0a4023e84e4d77829ef4c93268b685/artifacts
+end_time: 1691387934277
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 7f0a4023e84e4d77829ef4c93268b685
+run_name: Stacking Classifier
+run_uuid: 7f0a4023e84e4d77829ef4c93268b685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691387931105
+status: 3
+tags: []
+user_id: NOR

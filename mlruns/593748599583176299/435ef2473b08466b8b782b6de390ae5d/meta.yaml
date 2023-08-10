@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/435ef2473b08466b8b782b6de390ae5d/artifacts
+end_time: 1691649085116
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 435ef2473b08466b8b782b6de390ae5d
+run_name: CustomProbabilityThresholdClassifier
+run_uuid: 435ef2473b08466b8b782b6de390ae5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691649080300
+status: 3
+tags: []
+user_id: NOR

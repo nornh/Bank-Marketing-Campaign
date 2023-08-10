@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/ce1401e0ca7247d3a193537ce30ba88c/artifacts
+end_time: 1691441053329
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: ce1401e0ca7247d3a193537ce30ba88c
+run_name: Random Forest Classifier
+run_uuid: ce1401e0ca7247d3a193537ce30ba88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691441052096
+status: 3
+tags: []
+user_id: NOR

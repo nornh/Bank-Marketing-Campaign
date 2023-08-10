@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/8ff7a06710984c3c9e35cd98144adf76/artifacts
+end_time: 1691353743215
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 8ff7a06710984c3c9e35cd98144adf76
+run_name: Logistic Regression
+run_uuid: 8ff7a06710984c3c9e35cd98144adf76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691353742191
+status: 3
+tags: []
+user_id: NOR

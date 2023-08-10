@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/864be2827adb46cea3529b22d718ab32/artifacts
+end_time: 1691457992830
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 864be2827adb46cea3529b22d718ab32
+run_name: Quadratic Discriminant Analysis
+run_uuid: 864be2827adb46cea3529b22d718ab32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691457990826
+status: 3
+tags: []
+user_id: NOR

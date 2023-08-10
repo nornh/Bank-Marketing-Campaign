@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/b1776ebd888e4855a34728f4d96e3a23/artifacts
+end_time: 1691442808375
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: b1776ebd888e4855a34728f4d96e3a23
+run_name: Naive Bayes
+run_uuid: b1776ebd888e4855a34728f4d96e3a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691442806686
+status: 3
+tags: []
+user_id: NOR

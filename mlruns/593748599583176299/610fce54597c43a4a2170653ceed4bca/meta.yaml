@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/610fce54597c43a4a2170653ceed4bca/artifacts
+end_time: 1691460212496
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 610fce54597c43a4a2170653ceed4bca
+run_name: SVM - Linear Kernel
+run_uuid: 610fce54597c43a4a2170653ceed4bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691460210570
+status: 3
+tags: []
+user_id: NOR

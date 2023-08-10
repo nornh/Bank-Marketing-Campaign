@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/cea87b0b80ad4ebbaad35ce97ea6f326/artifacts
+end_time: 1691457978806
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: cea87b0b80ad4ebbaad35ce97ea6f326
+run_name: Extra Trees Classifier
+run_uuid: cea87b0b80ad4ebbaad35ce97ea6f326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691457976815
+status: 3
+tags: []
+user_id: NOR

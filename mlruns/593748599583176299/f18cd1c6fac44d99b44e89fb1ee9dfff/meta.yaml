@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/f18cd1c6fac44d99b44e89fb1ee9dfff/artifacts
+end_time: 1691572053749
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: f18cd1c6fac44d99b44e89fb1ee9dfff
+run_name: Ridge Classifier
+run_uuid: f18cd1c6fac44d99b44e89fb1ee9dfff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691572051030
+status: 3
+tags: []
+user_id: NOR

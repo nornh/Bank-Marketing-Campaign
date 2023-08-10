@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/901c8af7bb614b1099ff634653d02411/artifacts
+end_time: 1691351265342
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 901c8af7bb614b1099ff634653d02411
+run_name: K Neighbors Classifier
+run_uuid: 901c8af7bb614b1099ff634653d02411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691351262507
+status: 3
+tags: []
+user_id: NOR

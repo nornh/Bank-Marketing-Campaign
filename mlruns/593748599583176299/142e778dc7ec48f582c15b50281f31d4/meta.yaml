@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/JCDS-Purwadhika/CapstoneModule3/mlruns/593748599583176299/142e778dc7ec48f582c15b50281f31d4/artifacts
+end_time: 1691591666335
+entry_point_name: ''
+experiment_id: '593748599583176299'
+lifecycle_stage: active
+run_id: 142e778dc7ec48f582c15b50281f31d4
+run_name: Light Gradient Boosting Machine
+run_uuid: 142e778dc7ec48f582c15b50281f31d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691591662572
+status: 3
+tags: []
+user_id: NOR
